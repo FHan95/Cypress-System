@@ -1,0 +1,76 @@
+/*
+	The css for the website
+*/
+
+* {
+	background-color: #dddddd;
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+}
+
+header {
+	background-color: #222222;
+	height: 60px;
+	width: 100%;
+}
+
+h1 {
+	font-family: Arial;
+	font-size: 30px;
+	font-style: normal;
+	font-weight: bold;
+	margin: 30px;
+	text-align: center;
+}
+
+nav ul {
+	background-color: #222222;
+	float: right;
+	margin-top: 20px;
+	margin-right: 60px;
+}
+
+nav ul li {
+	background-color: #222222;
+	color: #fff;
+	float: left;
+	font-family: Arial;
+	font-size: 16px;
+	font-style: italic;
+	font-weight: bold;
+	list-style: none;
+	margin-right: 20px;
+}
+
+nav ul li a {
+	background-color: #222222;
+	color: #fff;
+	font-family: Arial;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: bold;
+}
+
+nav ul li a:hover {
+	color: #aaa;
+}
+
+table {
+	border: 1px solid black;
+	border-collapse: collapse;
+	text-align: center;
+	width: 100%;
+}
+
+td {
+	background-color: #CCCCCC;
+	border: 1px solid black;
+	padding: 10px;
+}
+
+th {
+	background-color: #777777;
+	border: 1px solid black;
+	padding: 10px;
+}

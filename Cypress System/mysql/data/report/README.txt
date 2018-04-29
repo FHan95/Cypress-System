@@ -1,0 +1,1 @@
+This is the problem reports database. It contains all the problems, with their corresponding ID, status, name, description, date reported, and priority.
